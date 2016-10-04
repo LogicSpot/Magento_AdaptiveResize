@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <LogicSpot_AdaptiveResize>
+            <active>true</active>
+            <codePool>community</codePool>
+        </LogicSpot_AdaptiveResize>
+    </modules>
+</config>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <global>
+        <helpers>
+            <adaptiveResize>
+                <class>LogicSpot_AdaptiveResize_Helper</class>
+            </adaptiveResize>
+        </helpers>
+        <models>
+            <adaptiveResize>
+                <class>LogicSpot_AdaptiveResize_Model</class>
+            </adaptiveResize>
+        </models>
+    </global>
+</config>
+
